@@ -4,7 +4,7 @@ scriptencoding utf-8
 " An example for a Japanese version vimrc file.
 " 日本語版のデフォルト設定ファイル(vimrc) - Vim 8.1
 "
-" Last Change: 08-May-2020.
+" Last Change: 31-May-2020.
 " Maintainer:  MURAOKA Taro <koron.kaoriya@gmail.com>
 "
 " 解説:
@@ -318,7 +318,6 @@ silent! helptags ALL
 " vim-plug でプラグインを管理する
 "call plug#begin('C:\Users\akoyama\vimfiles\autoload\plugged')
 call plug#begin('%UserProfile%\vimfiles\autoload/plugged')
-"Plug 'thinca/vim-quickrun'
 Plug 'sillybun/vim-repl'
 call plug#end()
 
