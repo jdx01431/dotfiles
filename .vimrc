@@ -316,8 +316,11 @@ silent! helptags ALL
 
 
 " vim-plug でプラグインを管理する
-"call plug#begin('C:\Users\akoyama\vimfiles\autoload\plugged')
-call plug#begin('%UserProfile%\vimfiles\autoload/plugged')
+
+
+"call plug#begin('C:\Users\akoyama\.vimfiles\autoload\plugged')
+"call plug#begin('%UserProfile%\.vimfiles\autoload\plugged')
+call plug#begin()
 Plug 'sillybun/vim-repl'
 call plug#end()
 
