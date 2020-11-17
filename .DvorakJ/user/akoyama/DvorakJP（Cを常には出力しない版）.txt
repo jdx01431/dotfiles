@@ -77,8 +77,8 @@
 
 /* íPë≈ */
 [
-ÇP|ÇQ|ÇR|ÇS|ÇT|ÇU|ÇV|ÇW|ÇX|ÇO|Åu|Åv|Åè|
-Åf|ÅA|ÅB|l |y |f |g |  |r |p |Åó|Åm|
+ÇP|ÇQ|ÇR|ÇS|ÇT|ÇU|ÇV|ÇW|ÇX|ÇO|Åu|Åv||
+ÅF|ÅA|ÅB|l |y |f |g |  |r |p |Åó|Åm|
 a |o |e |u |i |d |h |t |n |s |Å[|Ån|
 ÅG|q |j |c |x |b |m |w |v |z |ÅE|
 ]
